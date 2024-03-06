@@ -579,7 +579,6 @@ img {
 .backdrop.is-open {
   opacity: 1;
   visibility: visible;
-  margin-bottom: 8px;
 }
 
 /* --------- /Backdrop styles --------- */
@@ -645,7 +644,7 @@ img {
 }
 
 .review-form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .raview-form-field-label {
   display: block;
