@@ -564,6 +564,7 @@ img {
   color: #fff;
   margin-bottom: 16px;
   font-weight: 500;
+  padding-left: 80px;
 }
 .footer-form {
   display: flex;
@@ -621,6 +622,7 @@ img {
   border: none;
   min-width: 165px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  margin-top: 16px;
 }
 .footer-send-icon {
   fill: #fff;
